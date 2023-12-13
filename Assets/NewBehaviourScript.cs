@@ -8,7 +8,7 @@ public class NewBehaviourScript : MonoBehaviour
     void Start()
     {
         Debug.Log("TEST");
-        Debug.Log("TEST");
+        Debug.Log("T");
         Debug.Log("TEST");
     }
 
